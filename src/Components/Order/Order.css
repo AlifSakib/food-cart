@@ -1,0 +1,22 @@
+.order-container {
+  background-color: #bface0;
+  position: sticky;
+  top: 0;
+  min-height: 500px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.order-list {
+  display: flex;
+  justify-content: baseline;
+  align-items: center;
+}
+
+.delet-btn {
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  background-color: #e94560;
+  font-family: "Poppins", sans-serif;
+}
